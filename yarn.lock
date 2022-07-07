@@ -998,6 +998,9 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@modules/splash@file:./modules/splash":
+  version "1.0.0"
+
 "@modules/splash@file:./modules/splash/":
   version "1.0.0"
 
